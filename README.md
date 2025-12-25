@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+
+I WANT TO BECOME AN AI SECURITY ENGINEER
 <!--
 **vortex-wq/vortex-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I WANT TO BECOME AN AI SECURITY ENGINEER
+
 
 Here are some ideas to get you started:
 
