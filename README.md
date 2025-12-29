@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 
-I WANT TO BECOME AN AI SECURITY ENGINEER
+Hi Ho Hi 
+
+Ok meet you 
+
+steal it
 
 Anyways
 <!--
