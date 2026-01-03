@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 
+I want to explore areas of development, security and AI!!!!
+
 Hi Ho Hi 
 
 Ok meet you 
