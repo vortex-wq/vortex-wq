@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I want to explore areas of development, security and AI!!!!
+I am exploring areas of development, security and AI!!!!
 
 I code for funnnn
 
