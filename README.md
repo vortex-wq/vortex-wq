@@ -2,6 +2,7 @@
 
 
 I want to explore areas of development, security and AI!!!!
+I code for funnnn
 
 Hi Ho Hi 
 
