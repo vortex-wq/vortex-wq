@@ -7,6 +7,10 @@ I code for funnnn
 
 I build for purpose
 
+Like to code in python and rust, low level coding and data
+
+
+DATA IS BIG AND VAST, PROTECT IT
 Hi Ho Hi 
 
 Anyways
