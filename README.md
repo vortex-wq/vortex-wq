@@ -11,9 +11,7 @@ Like to code in python and rust, low level coding and data
 
 
 DATA IS BIG AND VAST, PROTECT IT
-Hi Ho Hi 
 
-Anyways
 <!--
 **vortex-wq/vortex-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
