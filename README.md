@@ -1,16 +1,32 @@
 ## Hi there 👋
 
+<h1 align="center">
+  HOLA BONJOUR こんにちは !!!
+</h1>
 
-I am exploring areas of development, machine learning and AI!!!!
+---
 
-I code for funnnn
+- 👀 I’m interested in Full Stack Web Development, Machine Learning and Open Source.
+- 🌱 I’m currently learning about LLMs, RLs. Natural Language Processing is my favorite.
+- 🔧 **SKILLS:** Python, C++, Docker, Kubernetes, CI/CD, HTML, CSS, JavaScript, MongoDB, Express JS, React, Node JS
+- 💞️ I’m looking to collaborate on Machine Learning and Full Stack projects.
+- ⚡ Fun fact: I like to write clean code.
 
-I build for purpose
+---
 
-Like to code in python and rust, low level coding and data
+<h2 align="center">Languages</h2>
 
+<p align="center">
+  Inhale Exhale code
+</p>
 
-DATA IS BIG AND VAST, PROTECT IT
+<p align="center">
+  吸う吐くコード
+</p>
+
+<p align="center">
+  🎓 College. ☕ Coffee. 💻 Code. Repeat.
+</p>
 
 <!--
 **vortex-wq/vortex-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
