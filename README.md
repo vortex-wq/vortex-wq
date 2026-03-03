@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">
-  HOLA BONJOUR こんにちは !!!
+
 </h1>
 
 ---
