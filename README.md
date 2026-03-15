@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning about LLMs, RLs. Natural Language Processing is my favorite.
 - 🔧 **SKILLS:** Python, C++, Docker, Kubernetes, CI/CD, HTML, CSS, JavaScript, MongoDB, Express JS, React, Node JS
 - 💞️ I’m looking to collaborate on Machine Learning and Full Stack projects.
-- ⚡ Fun fact: I like to write clean code.
+
 
 ---
 
