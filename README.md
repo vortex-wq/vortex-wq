@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  🎓 College. ☕ Coffee. 💻 Code. Repeat.
+  ☕ Coffee. 💻 Code. 🎓Repeat.
 </p>
 
 <!--
