@@ -10,6 +10,9 @@
 - 🔧 **SKILLS:** Python, C++, Docker, Kubernetes, CI/CD, HTML, CSS, JavaScript, MongoDB, Express JS, React, Node JS
 - 💞️ I’m looking to collaborate on Machine Learning and Full Stack projects.
 
+- Languages used:
+  
+
 
 ---
 
