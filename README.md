@@ -22,9 +22,6 @@
   Inhale Exhale code
 </p>
 
-<p align="center">
-  吸う吐くコード
-</p>
 
 <p align="center">
   ☕ Coffee. 💻 Code. 🎓Repeat.
