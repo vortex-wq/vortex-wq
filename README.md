@@ -43,7 +43,7 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/YOUR_vortex-wq">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 </p>
@@ -88,9 +88,9 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?vortex-wq=YOUR_vortex-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?vortex-wq=YOUR_vortex-wq&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -99,7 +99,7 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=vortex-wq&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?vortex-wq=vortex-wq&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?vortex-wq=vortex-wq&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -123,9 +123,9 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 # 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_vortex-wq/YOUR_vortex-wq/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_vortex-wq/YOUR_vortex-wq/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_vortex-wq/YOUR_vortex-wq/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
