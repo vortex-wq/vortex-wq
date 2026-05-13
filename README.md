@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vaastavi</h1>
 
 <h3 align="center">
 Open Source Enthusiast • ML Explorer • Cloud Native Learner
