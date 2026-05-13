@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Open Source Enthusiast • ML Explorer • Cloud Native Learner
+Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud Native Learner 
 </h3>
 
 <p align="center">
@@ -13,7 +13,6 @@ Open Source Enthusiast • ML Explorer • Cloud Native Learner
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-- 🎓 Undergraduate at **IIT BHU Varanasi**
 - 🌱 Currently learning:
   - Kubernetes
   - Container Runtimes
@@ -31,7 +30,7 @@ Open Source Enthusiast • ML Explorer • Cloud Native Learner
 - 🎨 I paint in my free time
 - 🎾 Lawn tennis enthusiast
 
----
+/*---
 
 # 🌐 Connect With Me
 
@@ -49,7 +48,7 @@ Open Source Enthusiast • ML Explorer • Cloud Native Learner
 </a>
 </p>
 
----
+---*/
 
 # ⚡ Tech Stack
 
