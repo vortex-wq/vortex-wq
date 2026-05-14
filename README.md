@@ -28,18 +28,11 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
   - urunc
   - OCI runtimes
 - 🎨 I paint in my free time
-- 🎾 Lawn tennis enthusiast
 
-/*---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kurashmi6@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
@@ -48,7 +41,6 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 </a>
 </p>
 
----*/
 
 # ⚡ Tech Stack
 
