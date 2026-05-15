@@ -77,17 +77,6 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?vortex-wq=vortex-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?vortex-wq=YOUR_vortex-wq&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
