@@ -81,7 +81,7 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?vortex-wq=YOUR_vortex-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?vortex-wq=vortex-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?vortex-wq=YOUR_vortex-wq&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -105,13 +105,6 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?vortex-wq=vortex-wq&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
