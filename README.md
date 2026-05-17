@@ -86,24 +86,6 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?vortex-wq=vortex-wq&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_vortex-wq/YOUR_vortex-wq/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_vortex-wq/YOUR_vortex-wq/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_vortex-wq/YOUR_vortex-wq/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 # 🚀 Current Focus
 
