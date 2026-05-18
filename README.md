@@ -2,7 +2,6 @@
 <h3 align="center">
 Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud Native Learner 
 </h3>
----
 
 # 💫 About Me
 
