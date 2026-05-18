@@ -2,11 +2,6 @@
 <h3 align="center">
 Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud Native Learner 
 </h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Cloud+Native+Explorer;Kubernetes+%7C+Linux+%7C+Open+Source;Frontend+Developer;Always+Learning+Something+New" />
-</p>
-
 ---
 
 # 💫 About Me
