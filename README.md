@@ -17,25 +17,6 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
   - CNCF Ecosystem
   - Machine Learning
   - Distributed Systems
-- 🚀 Exploring:
-  - Argo Workflows
-  - urunc
-  - OCI runtimes
-- 🎨 I paint in my free time
-
-
-
-# 🌐 Connect With Me
-
-<a href="mailto:kurashmi6@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://github.com/YOUR_vortex-wq">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-</p>
-
 
 # ⚡ Tech Stack
 
@@ -79,23 +60,3 @@ Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud
 </p>
 
 ---
-
-
-# 🚀 Current Focus
-
-```yaml
-Learning:
-  - Kubernetes
-  - Argo Workflows
-  - Linux Internals
-  - Container Runtimes
-  - Deep Learning
-
-Building:
-  - OmniConnect
-  - Omnichain Microlan Platform
-
-Goals:
-  - LFX Mentorship
-  - CNCF Contributions
-  - Systems Engineering
