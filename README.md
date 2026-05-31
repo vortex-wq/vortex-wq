@@ -1,23 +1,4 @@
 
-<h3 align="center">
-Open Source Enthusiast • ML & AI Explorer • Full Stack Development • Cloud Native Learner 
-</h3>
-
-# 💫 About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-- 🌱 Currently learning:
-  - Kubernetes
-  - Container Runtimes
-  - Linux Systems
-  - Deep Learning
-- 💻 Interested in:
-  - Open Source
-  - CNCF Ecosystem
-  - Machine Learning
-  - Distributed Systems
-
 # ⚡ Tech Stack
 
 ### Languages
