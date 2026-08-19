@@ -1,7 +1,7 @@
 Hi!
 
 International Relations
-Open to intern opportunities :) Reach me @ rashisinha@gmail.com
+Open to intern opportunities
 
 
 - Primary tech stack: Python, C++, Javascript, React, Typescript getting hands dirty with Go
