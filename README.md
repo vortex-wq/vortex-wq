@@ -10,7 +10,7 @@ Open Source has great power
 - Previously worked on graph neural networks.
 - Interested in working on NLP and linguistics
 
-- <p align="center">
-  <img src="AWAAQAHQ-R787945-AEAEAGMFB9.jpg" width="200" alt="Profile picture">
+<p align="center">
+  <img src="AWAAQAHQ-R787945-AEAEAGMFB9.jpg" alt="Profile picture">
 </p>
 
